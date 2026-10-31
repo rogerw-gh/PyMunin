@@ -16,7 +16,7 @@ Multigraph plugins permit retrieval of data for multiple graphs in one execution
 run (one-plugin many-graphs), reducing the processing time and delay for the 
 fetch cycle significantly.
 More information on Multigraph Plugins can be found in the 
-[Munin Wiki](http://munin-monitoring.org/wiki/):
+[Munin Wiki](https://github.com/munin-monitoring/munin/wiki):
 
 * [Multigraph Plugins](http://munin-monitoring.org/wiki/MultigraphSampleOutput)
 * [Multigraph Plugin Protocol](http://munin-monitoring.org/wiki/protocol-multigraph)
